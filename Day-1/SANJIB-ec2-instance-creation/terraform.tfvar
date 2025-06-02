@@ -1,0 +1,3 @@
+ami_value="ami-0953476d60561c955"
+instance_type_value="t2.micro"
+subnet_id_value="subnet-09e73c8e079c437e3"
