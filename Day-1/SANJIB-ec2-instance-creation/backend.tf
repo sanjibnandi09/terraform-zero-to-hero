@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "terraform-s3-bucket"
+    bucket = "my-aws-bucket-nandis"
     key = "sanjib/terraform.tfstate"
     region = "ap-south-1"
   }
